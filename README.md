@@ -18,3 +18,8 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
+> To check the app, just go to ```localhost``` or ```locahost:80``` on the browser after the command ```docker-compose up```.
+
+Check out the [repository](https://hub.docker.com/r/sydrawat/docker-node-mongo)!
+
+I've made this following [Brad Traversey on YouTube](https://www.youtube.com/watch?v=hP77Rua1E0c).
