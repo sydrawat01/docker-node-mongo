@@ -1,0 +1,30 @@
+{
+  "name": "docker-node-mongo",
+  "version": "1.0.0",
+  "description": "Working with Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydrawat/docker-node-mongo.git"
+  },
+  "keywords": [
+    "mongo",
+    "docker",
+    "node"
+  ],
+  "author": "Siddharth Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sydrawat/docker-node-mongo/issues"
+  },
+  "homepage": "https://github.com/sydrawat/docker-node-mongo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5"
+  }
+}
